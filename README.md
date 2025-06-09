@@ -1,1 +1,0 @@
-# kfka-stream-exo1
